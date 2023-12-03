@@ -9,3 +9,8 @@ This and that updated so and so.
 ```
 print("Hello world!")
 ```
+
+My task list:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
